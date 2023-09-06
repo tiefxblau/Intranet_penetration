@@ -1,0 +1,9 @@
+.vscode
+del
+test1
+client_part/log.txt
+client_part/client
+server_part/log.txt
+server_part/server
+test_Calc/calc_client
+test_Calc/calc_server
